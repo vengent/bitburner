@@ -1,4 +1,4 @@
-# Bitburner scripts collection
+# Bitburner scripts collection - Forked from https://github.com/moriakaice/bitburner
 
 Welcome to my log of [Bitburner](https://danielyxie.github.io/bitburner/) scripts. They are written using the in-game language of NetscriptJS, which is a mutation of Javascript.
 
